@@ -1,9 +1,9 @@
 
 ## 🚀 About Me
 
-Hello and welcome to my GitHub profile! I'm Sanjay Rao, a second year computer science engineering student and an enthusiastic developer with a keen interest in Python, Golang, Blockchain, and various other programming concepts. As a curious learner, I'm always exploring new technologies and utilizing them to solve real-world challenges. I thrive on challenges and continuously strive to improve my skills.
+Hello! I'm Sanjay Rao, a second year computer science engineering student and an enthusiastic developer with a keen interest in Python, Golang, Blockchain, and various other programming concepts. As a curious learner, I'm always exploring new technologies and utilizing them to solve real-world challenges. I thrive on challenges and continuously strive to improve my skills.
 
-Take a look at my GitHub profile to learn more about my projects and contributions. If you're interested in collaborating or have any questions, feel free to contact me. I'm always excited to connect with like-minded individuals and explore new possibilities in the world of programming!\
+Take a look at my GitHub profile to learn more about my projects and contributions. If you're interested in collaborating or have any questions, feel free to contact me. I'm always excited to connect with like-minded individuals and explore new possibilities in the world of programming!
       
       
       
